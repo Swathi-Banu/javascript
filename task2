@@ -1,0 +1,10 @@
+var a=2;
+var b="2";
+var c=4-2;
+for(a==b){
+console.log("true");
+}else for(b===c){
+console.log("false");
+}else{
+console.log("even");
+}
