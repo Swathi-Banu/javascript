@@ -1,0 +1,15 @@
+var fruits="apple";
+switch (fruits){
+    case "orange":
+        console.log("sweet");
+        break;
+        case "mango":
+            console.log("Sweet");
+            break;
+            case "apple":
+                console.log("Swweet");
+                break;
+                default:
+                console.log("SSweet");
+        
+}
